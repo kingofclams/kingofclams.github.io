@@ -1,2 +1,4 @@
 # kingofclams.github.io
-A website by kingofclams, dont expect much from this
+[![HitCount](http://hits.dwyl.com/kingofclams/kingofclamsgithubio.svg)](http://hits.dwyl.com/kingofclams/kingofclamsgithubio)<br>
+A website by kingofclams<br>
+dont expect much from this
